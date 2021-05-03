@@ -46,7 +46,7 @@ class Main extends Component {
                 isAuthenticated: true,
                 isFetching: true,
                 user: {
-                    username: 'hello World'
+                    username: 'Hello World'
                 }
 
             }

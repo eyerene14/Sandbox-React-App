@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/00a2bbd2-8246-4d7f-9ac4-839d31041a3f/resourceGroups/ASFOQA/providers/Microsoft.Web/sites/ijaramillo",
+    "appService.deploySubpath": "."
+}

@@ -73,7 +73,7 @@ class Header extends Component {
                             <img src="images/Mushrooms.jpg" height="150" width="200" alt="Logo" />
                             <div className="col">
                                 <br /><br />
-                                <h1><b>RUSTY</b></h1>
+                                <h1><b>Hello World</b></h1>
                             </div>
                         </div>
                     </div>
