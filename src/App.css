@@ -1,0 +1,91 @@
+body {
+  font-family: "Didact Gothic";
+  background-image: url("/src/images/gataontail2.jpg");
+  background-repeat: no-repeat;
+  background-position-y: bottom;
+  background-size:45%;
+}
+
+h1, h2, h3, .card-body>.card-title {
+  font-family: "Krona One", sans-serif;
+}
+
+.helloworld {
+  height: 1000px;
+  background-color: transparent;
+  color: transparent;
+}
+
+.card-title {
+  font-weight: 500;
+  font-size: 1.25rem;
+}
+
+button.userbtn{
+  background-color: rgba(0, #48a9c5, #2774AE, #013f66);
+}
+
+button.newUserBtn{
+  color: #48a9c5;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.fa-sign-in,  .fa-sign-out,  .fa-user-plus{
+color: white;
+}
+
+.userbtn {
+  background-color: rgba(0, 0, 0, 0.5);
+  }
+
+h2 {
+  color: #013f66;
+}
+
+h5 {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+}
+
+.card-img-overlay .card-title {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
+}
+
+.site-footer {
+  background-image: linear-gradient(#013f66, #00588a, #48a9c5, white);
+  padding: 20px 0;
+}
+
+div.jumbotron {
+  margin: 0;
+}
+
+.jumbotron {
+  margin: 0px;
+  padding: 30px;
+  background-image: linear-gradient(to right, white, #B3D57D, #48a9c5, #2774AE, #00588a);
+  color: #00588a;
+}
+
+.jumbotron h2 {
+  color: #2774AE;
+}
+
+.navbar-dark {
+  background-color: #00588a;
+}
+
+a.btn-link {
+  color: rgba(255, 255, 255, 0.733);
+}
+
+li a {
+  color: rgba(255, 255, 255, 0.733);
+}
